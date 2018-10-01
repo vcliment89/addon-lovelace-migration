@@ -1,6 +1,7 @@
 {
     "squash": false,
     "build_from": {
+        "arm64": "hassioaddons/base-aarch64:2.3.0",
         "aarch64": "hassioaddons/base-aarch64:2.3.0",
         "amd64": "hassioaddons/base-amd64:2.3.0",
         "armhf": "hassioaddons/base-armhf:2.3.0",
